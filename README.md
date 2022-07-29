@@ -1,8 +1,10 @@
 # Twitch Overlay
 
+**[Live Demo](https://twitch-overlay.justinmaier.com/)**
+
 ## Features
 - Displays stream name, viewer count, and time since the stream started at the top left
-- Displays incoming messages for 60 seconds
+- Displays incoming messages for configurable amount of time
 
 ## Technologies
 - Svelte
